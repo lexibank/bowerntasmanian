@@ -1,0 +1,38 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,RegionCode,Region,MacroRegion
+ArthurRiver,"Arthur River, western",west2205,Western Coastal Tasmanian,,Australia,-41.04,144.68,Western Tasmanian,ar,,North West
+BenLomond,Ben Lomond,benl1235,Ben-Lomond-Cape-Portland,,Australia,-41.5,147.67,North-Eastern Tasmanian,bl,,Ben Lomond
+BigRiver,Big River,oyst1235,Oyster Bay-Big River-Little Swanport,,Australia,-42.32,146.79,Oyster Bay-Big River-Little Swanport,br,,Big River
+BrunyIsland,Bruny Island,brun1235,Bruny Island,,Australia,-43.4,147.3,South-Eastern Tasmanian,b,,South East
+CampbellTown,"Campbell Town district, Midlands (Central Plains)",neta1235,NE Tasmanian Dialect Chain,,Australia,-41.9,147.5,North-Eastern Tasmanian,ct,,North Midlands
+CapeGrim,"Cape Grim, NW Tasmania",west2205,Western Coastal Tasmanian,,Australia,-40.67,144.7,Western Tasmanian,cg,,North West
+CapePortland,Cape Portland,benl1235,Ben-Lomond-Cape-Portland,,Australia,-40.8,148,North-Eastern Tasmanian,cp,,North East
+CircularHead,"Circular Head, NW Tasmania",west2205,Western Coastal Tasmanian,,Australia,-40.73,145.26,Western Tasmanian,ch,,North West
+Eastern,Eastern,neta1235,NE Tasmanian Dialect Chain,,Australia,-42.15,148,North-Eastern Tasmanian,e,,Oyster Bay
+LittleSwanport,"Little Swanport, east coast",oyst1235,Oyster Bay-Big River-Little Swanport,,Australia,-42.3,147.95,Oyster Bay-Big River-Little Swanport,ls,,Oyster Bay
+Lowreener,"Lowreener tribe, rocky point, west coast",,,,,-42.967,145.51,,lw,,South West
+MacquarieHarbour,"Macquarie Harbour, western",west2205,Western Coastal Tasmanian,,Australia,-42.25,145.32,Western Tasmanian,mh,,South West
+MineDim,"Mine.dim (Cape Grim), NW ",west2205,Western Coastal Tasmanian,,Australia,-40.68,144.683,Western Tasmanian,md,,North West
+MountCameron,"Mount Cameron, NW Tasmania",west2205,Western Coastal Tasmanian,,Australia,-41.02,147.95,Western Tasmanian,mc,,North West
+Ninenee,"Ninenee tribe, Port Davey, SW",,,,,-43.36,145.97,,nn,,South West
+NorthEastern,north-eastern tribes,neta1235,NE Tasmanian Dialect Chain,,Australia,-41.1,147,North-Eastern Tasmanian,ne,,North East
+Northern,"Northern tribes, but not always those to westward of the Tamar River",,,,,-41,146.75,,n,,North
+NorthernCoast,"tribes of the Northern Coast, usually those to wesward of the Tamar River",,,,,-41.15,146.8,,nc,,North
+OysterBay,Oyster Bay,oyst1235,Oyster Bay-Big River-Little Swanport,,Australia,-42.2,148.1,Oyster Bay-Big River-Little Swanport,oyb,,Oyster Bay
+Peewrapper,"Peewrapper tribe, West Point, west coast",sout1439,South-Eastern-Tasmanian-Hinterland,,Australia,-40.733,145.25,South-Eastern Tasmanian,pp,,North West
+PiperRiver,"Piper River, NE",neta1235,NE Tasmanian Dialect Chain,,Australia,-41.1,147.15,North-Eastern Tasmanian,pr,,North East
+PortDalrymple,"Port Dalrymple, Tamar River",neta1235,NE Tasmanian Dialect Chain,,Australia,-41.1,146.7,North-Eastern Tasmanian,dl,,North Midlands
+PortDavey,"Port Davey, SW",,,,,-43.33,145.974,,pd,,South West
+PortSorell,"Port Sorell, northern",port1278,Port Sorell,,Australia,-41.2,146.57,Western Tasmanian,ps,,North
+RobbinsIsland,"Robbins Island, NW",west2205,Western Coastal Tasmanian,,Australia,-40.7,144.9,Western Tasmanian,ri,,North West
+SandyCape,"Sandy Cape, west coast",west2205,Western Coastal Tasmanian,,Australia,-41.42,144.77,Western Tasmanian,sc,,North West
+Southeastern,Southeastern,sout1439,South-Eastern-Tasmanian-Hinterland,,Australia,-43.33,147.61,South-Eastern Tasmanian,se,,South East
+Southern,Southern,sout1439,South-Eastern-Tasmanian-Hinterland,,Australia,-43.71,146.98,South-Eastern Tasmanian,s,,South East
+Swanport,"Swanport, east coast",,,,,-42.067,148.14,,sp,,Oyster Bay
+Tommyginny,"Tommyginny tribe, Detention River, NW",,,,,-40.98,145.68,,to,,
+TyreeloreSealersWomen,"Tyreelore, dialect spoken by sealer’s women",,,,,-40.5,144.3,,ty,,
+WaterhouseIsland,Waterhouse Island,,,,,-40.8,147.6,,wt,,North East
+WesternCoast,Western Coast,west2205,Western Coastal Tasmanian,,Australia,-41.7,144.71,Western Tasmanian,wc,,North West
+WesternTribes,western tribes,,,,,-41.9,144.88,,w,,North
+WestPoint,"West Point, west coast",,,,,-40.93,144.62,,wp,,
+Kaurna,Kaurna,kaur1267,Kaurna,zku,Australia,,,Pama-Nyungan,,,
+Toogee,"Toogee tribe, Birches Rocks, west coast",west2205,Western Coastal Tasmanian,,Australia,,,Western Tasmanian,,,

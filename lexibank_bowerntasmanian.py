@@ -6,13 +6,12 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import Language as BaseLanguage
 from pylexibank import FormSpec
 
+
 @attr.s
 class CustomLanguage(BaseLanguage):
-    # the tokens used as language identifiers by Robinson and Holton
     RegionCode = attr.ib(default=None)
     Region = attr.ib(default=None)
     MacroRegion = attr.ib(default=None)
-
 
 
 class Dataset(BaseDataset):
@@ -54,10 +53,9 @@ class Dataset(BaseDataset):
                 continue
             
             lang = languages.get(row['region'])
-            print(lang)
+
             if lang is None:
-                print('Unknown language %d: %s' % (i, row['region']))
-                continue
+                raise ValueError('Unknown language %d: %s' % (i, row['region']))
             
             args.writer.add_forms_from_value(
                 Local_ID=row['recordid'],
@@ -67,4 +65,4 @@ class Dataset(BaseDataset):
                 Source=["Bowern2012"],
             )
 
-            quit()
+
