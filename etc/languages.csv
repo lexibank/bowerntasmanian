@@ -1,0 +1,42 @@
+ID,Glottocode,RegionCode,Latitude,Longitude,Name,MacroRegion
+ArthurRiver,west2205,ar,144.68,-41.04,"Arthur River, western",North West
+BackhouseWalker,neta1235,unk-bkwb,147.1,-43.5,Backhouse and Walker vocabulary,East
+BenLomond,benl1235,bl,147.67,-41.5,Ben Lomond,Ben Lomond
+BigRiver,oyst1235,br,146.79,-42.32,Big River,Big River
+BrunyIsland,brun1235,b,147.3,-43.4,Bruny Island,South East
+CampbellTown,neta1235,ct,147.5,-41.9,"Campbell Town district, Midlands (Central Plains)",North Midlands
+CapeGrim,west2205,cg,144.7,-40.67,"Cape Grim, NW Tasmania",North West
+CapePortland,benl1235,cp,148,-40.8,Cape Portland,North East
+CircularHead,west2205,ch,145.26,-40.73,"Circular Head, NW Tasmania",North West
+Eastern,neta1235,e,148,-42.15,Eastern,Oyster Bay
+Fisher,,unk-wn,145.31,-42.875,Fisher vocabulary,North
+Lhotsky,neta1235,unk-lh,147,-43.5,Lhotsky’s data,North
+LittleSwanport,oyst1235,ls,147.95,-42.3,"Little Swanport, east coast",Oyster Bay
+Lowreener,,lw,145.51,-42.967,"Lowreener tribe, rocky point, west coast",South West
+MacquarieHarbour,west2205,mh,145.32,-42.25,"Macquarie Harbour, western",South West
+MineDim,west2205,md,144.683,-40.68,"Mine.dim (Cape Grim), NW ",North West
+MountCameron,west2205,mc,147.95,-41.02,"Mount Cameron, NW Tasmania",North West
+Ninenee,,nn,145.97,-43.36,"Ninenee tribe, Port Davey, SW",South West
+NorthEastern,neta1235,ne,147,-41.1,north-eastern tribes,North East
+Northern,,n,146.75,-41,"Northern tribes, but not always those to westward of the Tamar River",North
+NorthernCoast,,nc,146.8,-41.15,"tribes of the Northern Coast, usually those to wesward of the Tamar River",North
+OysterBay,oyst1235,oyb,148.1,-42.2,Oyster Bay,Oyster Bay
+Peewrapper,sout1439,pp,145.25,-40.733,"Peewrapper tribe, West Point, west coast",North West
+PeronBaudin,sout1439,se-pp,147.11,-43.35,Peron Baudin exp vocabs,South East
+PiperRiver,neta1235,pr,147.15,-41.1,"Piper River, NE",North East
+PortDalrymple,neta1235,dl,146.7,-41.1,"Port Dalrymple, Tamar River",North Midlands
+PortDavey,,pd,145.974,-43.33,"Port Davey, SW",South West
+PortSorell,port1278,ps,146.57,-41.2,"Port Sorell, northern",North
+RobbinsIsland,west2205,ri,144.9,-40.7,"Robbins Island, NW",North West
+SandyCape,west2205,sc,144.77,-41.42,"Sandy Cape, west coast",North West
+Southeastern,sout1439,se,147.61,-43.33,Southeastern,South East
+Southern,sout1439,s,146.98,-43.71,Southern,South East
+SterlingNorman,neta1235,unk-sn,148.6,-41.11,Sterling’s Norman vocabulary,North
+Swanport,,sp,148.14,-42.067,"Swanport, east coast",Oyster Bay
+Tommyginny,,to,145.68,-40.98,"Tommyginny tribe, Detention River, NW",
+TyreeloreSealersWomen,,ty,144.3,-40.5,"Tyreelore, dialect spoken by sealer’s women",
+WaterhouseIsland,,wt,147.6,-40.8,Waterhouse Island,North East
+WesternCoast,west2205,wc,144.71,-41.7,Western Coast,North West
+WesternTribes,,w,144.88,-41.9,western tribes,North
+WestPoint,,wp,144.62,-40.93,"West Point, west coast",
+Kaurna,kaur1267,,,,Kaurna,
