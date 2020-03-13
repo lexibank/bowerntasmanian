@@ -69,7 +69,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 70_butterfly,butterfly,1791,BUTTERFLY
 71_buttock,buttock,834,BUTTOCKS
 72_callto,call (to),1084,CALL
-73_cap,cap,771,HAT
+73_cap,cap,1288,CAP
 74_carta,cart (a),122,CART
 75_caterpillar,caterpillar,2247,CATERPILLAR
 76_cattle,cattle,1153,CATTLE
@@ -253,7 +253,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 260_hill,hill,614,HILL
 261_hip,hip,1745,HIP
 262_hipbone,hip bone,2820,HIP BONE
-263_hitto,hit (to),353,STRIKE
+263_hitto,hit (to),1433,HIT
 264_hitherandthither,hither and thither,,
 265_holdto,hold (to),1448,HOLD
 266_hole,hole,1667,HOLE
@@ -267,7 +267,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 274_i,I,1209,I
 275_ice,ice,617,ICE
 276_insect,insect,620,INSECT
-277_instep,instep,,
+277_instep,instep,3736,INSTEP
 278_island,island,622,ISLAND
 279_itchto,itch (to),148,ITCH
 280_jawbonemandible,jawbone (mandible),798,JAW
@@ -283,7 +283,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 290_kingfisher,kingfisher,2444,KINGFISHER
 291_knee,knee,1371,KNEE
 292_kneelto,kneel (to),66,KNEEL
-293_knowto,know (to),2238,KNOW OR BE ABLE
+293_knowto,know (to),2238,KNOW HOW
 294_knuckle,knuckle,2824,KNUCKLE
 295_lake,lake,624,LAKE
 296_lame,lame,320,LAME
@@ -494,7 +494,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 504_spitto,spit (to),1440,SPIT
 505_sponge,sponge,,
 506_staggerlikeadrunkenmanto,stagger (like a drunken man) (to),,
-507_stampwiththefoot,stamp with the foot,,
+507_stampwiththefoot,stamp with the foot,3618,STAMP
 508_star,star,1430,STAR
 509_starfish,starfish,3032,STARFISH
 510_starlight,starlight,2836,STARLIGHT
@@ -583,7 +583,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 596_walkto,walk (to),1443,WALK
 597_wallabyrufousbelliedwallabypademelon,"wallaby(rufous-bellied wallaby, pademelon)",165,WALLABY
 598_wantto,want (to),1784,WANT
-599_warwhoop,war whoop,,
+599_warwhoop,war whoop,3741,BATTLE CRY (WAR WHOOP)
 600_waratah,waratah,,
 601_warmwater,warm water,,
 602_warmweather,warm weather,,
@@ -608,7 +608,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 622_whiteman,white man,2839,WHITE MAN
 623_whitemilkyway,white milky way,,
 624_whitewoman,white woman,2840,WHITE WOMAN
-625_wild,wild,1208,CAT
+625_wild,wild,2230,UNTAMED OR WILD
 626_wildpotato,wild potato,,
 627_wind,wind,960,WIND
 628_wing,wing,1257,WING
