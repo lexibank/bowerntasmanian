@@ -19,7 +19,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bowerntasmanian",
-            "dc:created": "6c917dd"
+            "dc:created": "328e3f5"
         },
         {
             "rdf:type": "prov:Entity",

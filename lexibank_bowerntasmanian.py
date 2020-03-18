@@ -10,7 +10,6 @@ from pylexibank import FormSpec
 @attr.s
 class CustomLanguage(BaseLanguage):
     RegionCode = attr.ib(default=None)
-    Region = attr.ib(default=None)
     MacroRegion = attr.ib(default=None)
 
 
@@ -64,5 +63,3 @@ class Dataset(BaseDataset):
                 Value=row['originalform'],
                 Source=["Bowern2012"],
             )
-
-
