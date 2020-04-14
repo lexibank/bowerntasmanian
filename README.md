@@ -1,4 +1,4 @@
-# The riddle of the Tasmanian languages
+# CLDF dataset derived from Bowerns's "The riddle of the Tasmanian languages" from 2012.
 
 Cite the source dataset as
 
@@ -27,3 +27,11 @@ Conceptlists in Concepticon:
 - **Lexemes:** 9,139
 - **Sources:** 1
 - **Synonymy:** 1.67
+
+# Contributors
+
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+
+
