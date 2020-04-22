@@ -1,4 +1,4 @@
-# CLDF dataset derived from Bowerns's "The riddle of the Tasmanian languages" from 2012.
+# CLDF dataset derived from Bowerns's "The riddle of the Tasmanian languages" from 2012
 
 Cite the source dataset as
 
@@ -33,5 +33,8 @@ Conceptlists in Concepticon:
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+Johann-Mattis List | @LinguList | concept mapping, initial data preparation | Author 
+Gerhard Jäger | @GerhardJaeger | concept and language mapping | Other
+Claire Bowern |  | data collection and distribution | DataDistributor, DataCollector
 
 

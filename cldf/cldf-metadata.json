@@ -12,14 +12,14 @@
     "dc:license": "CC-BY",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Bowerns's \"The riddle of the Tasmanian languages\" from 2012.",
+    "dc:title": "CLDF dataset derived from Bowerns's \"The riddle of the Tasmanian languages\" from 2012",
     "dcat:accessURL": "https://github.com/lexibank/bowerntasmanian",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bowerntasmanian",
-            "dc:created": "1a01aa8"
+            "dc:created": "af7834f"
         },
         {
             "rdf:type": "prov:Entity",
