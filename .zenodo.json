@@ -7,13 +7,18 @@
     ],
     "creators": [
         {
-            "name": "Simon J. Greenhill"
-        },
-        {
-            "name": "Johann-Mattis List"
+            "name": "Claire Bowern"
         }
     ],
     "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
         {
             "name": "Gerhard J\u00e4ger",
             "type": "Other"
@@ -33,5 +38,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bowern, C. (2012). The riddle of Tasmanian languages. Proceedings of the Royal Society B: Biological Sciences, 279(1747), 4590\u20134595. doi:10.1098/rspb.2012.1842</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bowern, C. (2012). The riddle of Tasmanian languages. Proceedings of the Royal Society B: Biological Sciences, 279(1747), 4590\u20134595. doi:10.1098/rspb.2012.1842</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

@@ -9,7 +9,7 @@
     ],
     "dc:identifier": "https://zenodo.org/record/2667301",
     "dc:isVersionOf": null,
-    "dc:license": "CC-BY",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Bowerns's \"The riddle of the Tasmanian languages\" from 2012",
@@ -19,31 +19,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bowerntasmanian",
-            "dc:created": "8efb6b3"
+            "dc:created": "f23c355"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "v4.3-treedb-fixes"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0-133-g1712467"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",

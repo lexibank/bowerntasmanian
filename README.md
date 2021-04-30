@@ -7,7 +7,7 @@ Cite the source dataset as
 
 The riddle of the Tasmanian languages
 
-This dataset is licensed under a CC-BY license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://zenodo.org/record/2667301
 
@@ -17,7 +17,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/bowerntasmanian.svg?branch=master)](https://travis-ci.org/lexibank/bowerntasmanian)
+[![CLDF validation](https://github.com/lexibank/bowerntasmanian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bowerntasmanian/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 90%](https://img.shields.io/badge/Glottolog-90%25-green.svg "Glottolog: 90%")
 ![Concepticon: 85%](https://img.shields.io/badge/Concepticon-85%25-yellowgreen.svg "Concepticon: 85%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -32,9 +32,9 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Johann-Mattis List | @LinguList | concept mapping, initial data preparation | Author 
+Simon J. Greenhill | @SimonGreenhill | patron                               | Other
+Johann-Mattis List | @LinguList | concept mapping, initial data preparation | Other 
 Gerhard Jäger | @GerhardJaeger | concept and language mapping | Other
-Claire Bowern |  | data collection and distribution | Distributor, DataCollector
+Claire Bowern |  | data collection and distribution | Author, Distributor, DataCollector
 
 

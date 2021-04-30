@@ -2,7 +2,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1_anuisance,a nuisance,,
 2_aboil,(a) boil,793,BOIL (OF SKIN)
 3_afternoon,afternoon,1807,AFTERNOON
-4_albatross,albatross,,
+4_albatross,albatross,3796,ALBATROSS
 5_alive,alive,1422,BE ALIVE
 6_amulet,amulet,2804,AMULET
 7_anger,anger,82,ANGER
@@ -269,7 +269,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 276_insect,insect,620,INSECT
 277_instep,instep,3736,INSTEP
 278_island,island,622,ISLAND
-279_itchto,itch (to),148,ITCH
+279_itchto,itch (to),3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
 280_jawbonemandible,jawbone (mandible),798,JAW
 281_jelaous,jelaous,2821,JEALOUS
 282_jumpto,jump (to),1829,JUMP
@@ -441,7 +441,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 450_serioussadgaze,serious (sad gaze),,
 451_seven,seven,1704,SEVEN
 452_sewto,sew (to),1457,SEW
-453_sexualintercourse,sexual intercourse,1785,HAVE SEX
+453_sexualintercourse,sexual intercourse,549,COPULATE
 454_shadow,shadow,1388,SHADE
 455_shaketo,shake (to),1909,SHAKE
 456_shallot,shallot,,
@@ -534,7 +534,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 544_thanks,thanks,,
 545_that,that,78,THAT
 547_there,there,1937,THERE
-548_thigh,thigh,800,THIGH
+548_thigh,thigh,471,UPPER LEG (THIGH)
 549_thin,thin,2308,THIN
 550_thirsty,thirsty,847,THIRSTY
 551_this,this,1214,THIS
